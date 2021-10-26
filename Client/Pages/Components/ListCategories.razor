@@ -1,0 +1,12 @@
+@using MoviesProy.Client.Shared
+<div class="jumbotron">
+    <h4>Categorias</h4>
+    <div class="list-group">
+        @foreach(var Category in Categories){
+            <li class="list-group-item">@Category.Name</li>
+        }
+    </div>
+</div>
+@code {
+    [Parameter] public List<Category> Categories {get;set;} 
+}

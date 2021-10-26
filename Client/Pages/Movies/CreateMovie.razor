@@ -1,0 +1,13 @@
+@page "/movies/create"
+@using MoviesProy.Client.Pages.Components
+
+<h1>Crear Pelicula</h1>
+
+<FormMovie OnValidSubmit="Create" Movie="Movie"></FormMovie>
+
+@code{
+    private Movie Movie = new Movie();
+    void Create(){
+        Console.WriteLine(Movie);
+    }
+}

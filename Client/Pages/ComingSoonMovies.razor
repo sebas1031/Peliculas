@@ -1,0 +1,63 @@
+﻿@page "/ComingSoonMovies"
+
+@inject ComingSoonServiceInterface ComingSoonService
+
+
+<h1>Coming Soon Movies</h1>
+
+@if (movies == null)
+ {
+     Console.WriteLine("movies esta vacio.....");
+     <p><em>Loading Movies... </em></p>
+ }
+ else
+ {
+                @foreach (NewMovieDataDetail movie in moviesdetails)
+                             
+                 {   
+                           <div class="card-deck">
+                                 <div class="card mb-3" style="max-width: 540px;">
+                                  <div class="row g-0">
+                                   <div class="col-md-4">
+                                    <div align="center"><img src="@movie.Image" class="img-fluid" width="150" alt=@movie.FullTitle></div>
+                                   </div>
+                                   <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title"><b>@movie.FullTitle</b></h5>
+                                        <p class="card-text"><b>Genres: </b> @movie.Genres</p>
+                                        <p class="card-text"><b>Director: </b>@movie.Directors</p>
+                                        <p class="card-text"><b>Cast: </b>@movie.Stars</p>
+                                        <p class="card-text"><b>Release Date: </b> @movie.ReleaseState</p>
+                                        <p class="card-text"><b>Synopsis: </b> @movie.Plot</p>
+                                        <div align="center"><img src="/images/coming-soon red.jpg" class="img-fluid" width="150" ></div>
+                                        
+                                    </div>
+                                    </div>
+                                   </div>
+                                  </div>    
+                     
+                            </div> 
+                                
+                                    
+                }
+ }
+@code{
+ 
+ NewMovieData movies = new NewMovieData();
+ List<NewMovieDataDetail> moviesdetails = new List<NewMovieDataDetail>();
+ protected override async Task OnInitializedAsync()
+ {
+    movies = await ComingSoonService.GetAllMovies(); 
+    moviesdetails = movies.Items;
+    if (movies == null){
+        Console.WriteLine("esta vacio.....");
+    }
+    else{
+        Console.WriteLine("Tiene: ");
+        Console.WriteLine(moviesdetails.Count);
+    }
+   
+ }    
+
+}
+  

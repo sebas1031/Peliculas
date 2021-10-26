@@ -1,0 +1,17 @@
+@page "/actors"
+@using MoviesProy.Client.Pages.Components
+@inject IServicesActor actor
+
+<div class="form-group">
+    <a href="actors/create" class="btn btn-info">Crear Actor</a>
+    <a href="/actors/edit/{ActorId:int}" class="btn btn-dark">Editar Actor</a>
+</div>
+<CardActorComponent Actors="Actors"></CardActorComponent>
+
+@code {
+    private List<Actor> Actors;
+    protected override void OnInitialized()
+    {
+        Actors = actor.GetActor();
+    }
+}

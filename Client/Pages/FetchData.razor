@@ -1,0 +1,16 @@
+﻿@page "/all"
+@using MoviesProy.Client.Pages.Components
+@inject IServicesActor actor
+
+<div>
+    <h1>Tarjeta de actores</h1>
+</div>
+<CardActorComponent Actors="Actors"></CardActorComponent>
+
+@code {
+    private List<Actor> Actors;
+    protected override void OnInitialized()
+    {
+        Actors = actor.GetActor();
+    }
+}

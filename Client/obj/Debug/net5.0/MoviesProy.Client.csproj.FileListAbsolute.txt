@@ -1,0 +1,2045 @@
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.StaticWebAssets.xml
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.pdb
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.pdb
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll.gz
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll
+C:\Proyectos con C#\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.pdb
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.AssemblyReference.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfoInputs.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfo.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.CoreCompileInputs.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.input.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.output.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.input.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.output.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorCoreGenerate.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\8DLcnniY.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\d0v4v820.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\w67oGiv9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\LTt0MMH0.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\QdiFpccQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Mn29tEHN.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\TJ35xg1T.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\perLJVCG.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\k+nkv8Ep.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zpCg+OFk.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\AJzS+asb.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\EnLnUapa.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\e4EJhl3X.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ivyx+ba9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\SJ4j5bep.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\gsLJVB0Z.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\m7jyKYFa.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\tR4nJtNO.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\MxAOQGWy.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Y0Rx5zvS.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\urHLqoDE.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\FOI1xg+j.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\wJDgIAEr.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\MtRe+Hpl.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\7fVnMA8t.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Q3xU4ZrG.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ad53oaa6.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\JtEppoNS.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\kvSZQgsM.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\pYbJsa0y.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\6qSlhVYL.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\933UXa8P.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\9calksKF.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\7mtSnSCg.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\8OvKgtBt.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\7vf2lIWq.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\C6ucN7jh.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\K12ll+74.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\d6yyMvNt.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\dnv6u7ah.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\J5hah5+a.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\aXhEEQ7n.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\uSHg0KwP.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\PJulk2+q.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\voMwAnpq.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Rm1+k9l5.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\2KgZ6AFF.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\azAal7lC.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\f+qEEXtd.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\p+SFt3qA.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\i5PVNE+L.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\jVEyw+pU.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\DoRPLb80.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zzMdKPlE.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\+sY9QP+9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\VepN8Kh5.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\eO48Cp2j.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\SC0YGJrH.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\pH0r3QWa.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\mDqcgIDo.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\X5UAJ0x+.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\9T1WubUp.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\80+lIYcQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\TUjqDxxr.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\BwQJmZ1M.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\VZ4llCUI.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\FExPiUe0.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\5c9JbZiN.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\3V03Vt0F.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\73t2ib+N.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\UTLShK6h.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\g7rm44KU.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\5Tbz1dRG.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\qOzwzJbo.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\L2giT+Hg.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\meT9xDBy.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\LKcYCm02.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\c5v8MkEY.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\MWTD8soW.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Sk1ya8GF.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\bw+dNYME.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Noxk8+iQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\a0V2uUNl.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\gdyq7yrb.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\LTj+lA+X.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\weuS5Ako.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\YckxMfZx.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\ysRKP9bi.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\wbsVml8t.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\nGXNKTEQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\95+xjXkL.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\jmcz9VNm.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\StTukzVv.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\bcwLvXtY.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\vRwul9nU.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\S6Ewm8Pj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\l0vP0cmS.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\RJAKs1ds.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\9VZvjPQH.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\2rncAmoB.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\IihuzcME.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\kSyoxMIk.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zpqLWSek.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\mtiC6Juj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Q2EtAsM9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\ZwkYisBL.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\rPyX0uop.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\iPbMC3mu.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\unFv13Ta.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\73oZ3ytw.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\K5e+Bkze.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\nUlr+cfx.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\mlLWrTyg.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\VxUaWhgf.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\uilxjJcQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\RzQuNYnn.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\8CRIP7FN.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\BYnHCEbE.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\TpXc5zTg.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zatFVtDM.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\LNd8ChBj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\lMugEGTM.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\UF8YdNTI.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Asu+8TPm.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\L65H4Eyj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\o69crBZn.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\pyGbtYcy.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\ioBZMVor.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\MwFe2VSw.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\I5qoPDg9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\B+atOvnf.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Qfbac+3d.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\p0kypc+i.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CEAsOHpc.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Gp+IBJYP.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\tFPRankJ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\tdsGAsWG.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CfrJ48EN.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\HEM9437U.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\bAZwhlqj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\EuC2+FP2.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\q0Yi1QNd.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CuNQCeQu.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\XRAzxjz3.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\Zj4grz30.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\qDe4UyyM.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zNjp2IlC.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\UzaFO5M8.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\3Cqc8+kG.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\inufqmFg.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\cz+iX3gd.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\XnhS57a9.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CAHWl7C+.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\uFyi9Fgl.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\QONL0kk3.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\buk8vJaL.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\la12hFUI.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\cULiWnkS.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\RZ+hWwPB.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\o6FDVMhH.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CtL7aFGn.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\ibHqjhv+.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\UpAtWscz.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\yXMhUrCY.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\yWUhPE5p.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\o3DouYN+.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zX15RDuB.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\jkDvAC2g.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\3vy3rP4R.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\iuEZjPDv.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\0kcU583T.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\abGmyQbN.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\qXck6P16.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zEO2KEdZ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\aevubAvt.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\MCD5rT+B.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\ohuURB3d.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zjjl6atD.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\gTqfPuBj.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\u9GAblvC.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\01CeQX6N.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\yVbc4WnV.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\KRyId4Lt.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\CD7zvKkI.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\zaGIHyFx.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\RmbJin7w.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\HwQs2krb.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\+WPRAZb3.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\mAIX1KEt.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\S98tvCz2.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\e19FB5j4.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\lPGkirV4.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\oGQOZD3a.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\gdIoI+Sh.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\wg3w4P+q.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\build-gz\qQ6GwyMQ.gz
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.Manifest.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.xml
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\scopedcss\bundle\MoviesProy.Client.styles.css
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\scopedcss\projectbundle\MoviesProy.Client.bundle.scp.css
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorTargetAssemblyInfo.cache
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.CopyComplete
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.pdb
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardActorComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardActorComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CustomNotFound.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CustomNotFound.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\MovieComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\EditMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\ShowMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\CrateCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ImageComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\CreateActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\EditActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\ShowActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\EditCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\ShowCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\CreateActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\EditActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\ShowActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\CrateCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\EditCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\ShowCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormActor.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormCategory.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ImageComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\MovieComponent.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\CreateMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\EditMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\ShowMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ListCategories.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ListCategories.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormMovie.razor.g.cs
+C:\Proyectos con C#\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.StaticWebAssets.xml
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.pdb
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.pdb
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.pdb
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.AssemblyReference.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfoInputs.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfo.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.CoreCompileInputs.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.input.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\CreateActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\EditActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\ShowActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\CrateCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\EditCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\ShowCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardActorComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CustomNotFound.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ImageComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ListCategories.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\MovieComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\EditMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\ShowMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.output.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.input.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.output.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorCoreGenerate.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\CreateActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\EditActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\ShowActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\CrateCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\EditCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\ShowCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardActorComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CustomNotFound.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormActor.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormCategory.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ImageComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ListCategories.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\MovieComponent.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\CreateMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\EditMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\ShowMovie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\rdyEbaMy.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\HSFGFr8F.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3P+4bGuj.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\1kUqzRd+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\lgVxWOG6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\2sUAk40Y.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\zSHjqzUt.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\mkA9VmK7.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\DwAkySQz.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\oG0RJx+n.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\+IU7J7Z8.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\SgA8RkZ6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\z++b6AzR.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\yU4BtzU6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\q8ygOJe8.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\0wUpPlyO.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\l417KkEn.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\9gD+3uli.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\HtBepJ23.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\AXcc5sgE.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\kzEzWd08.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\v+aj7bhL.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\iBL+Z7cv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\qVGjwC5N.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\cnjZAkPB.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\e7+KJB6Q.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\AH5EQf9J.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\H+oJmcke.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\0qr+jumP.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\QValGID0.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\4C2JhyU0.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\v2zumJ4w.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\FA2lfdfU.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\q57o8DLX.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\5+5ySbP9.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3geQnxGM.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\hw+RmuMk.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\s7bMOA3z.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\FXZswREa.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\mexcLCGi.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\PLyMejau.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\2J3aZYL2.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Xxdv6uqF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\eygaiLQm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\oPI0mEww.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\MWHI+Noc.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\9jw3rh3Y.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\nOEAA8PU.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\K8SIVRhv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\9EQWZR+m.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3VfyLaX3.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\aJJEXlaf.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Es3XpsMb.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\aIPtsq2v.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\87VCP3w7.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Pyd37irF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\fqLVnUfH.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\1YPqviqe.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\nOexNq7f.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\xnRpELM6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Wrnvrg5L.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\BQy9G5dX.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\v4M5yBlx.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\nm5pa05+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\8qph7+Ls.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\8dva3Jj0.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ijs6wcmv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\7G1cwQ5P.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\+iBX++bv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\TWq9Wgte.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\aowHVDbn.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\w003iSNF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\uxdy8QEv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\zv7QEnJQ.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\0Wxv+W63.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\tGsTZrC0.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3KCtiZV+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\bUkiu+il.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\XgQEXSDG.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Y9MSuvI7.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\qzrEwbj6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\S6PSw5MV.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\0v1k7Pg3.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\VaCKhx2q.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\N7doXiWa.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\h1lYTTZM.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\SIQ79XBm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\uafoqjgt.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\ujgIiinz.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\4KyIdFsC.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\sHoXK77Y.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\JuuBWg+Z.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\J4aP8Y8T.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\DC+4h26q.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\AdC1Nl3Y.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\uu0AQ0Pi.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\MKCWjKaa.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\tVlJpIZn.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\6yhjcxGt.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\XQktlA9o.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\I46qgOc0.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\e9wY5jsp.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\hf2w1UbW.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\OUJnGucs.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\lNfbmwwy.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\NaYEXvCr.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\tiYO64CV.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\R5QkF+L2.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\vRDjWzjq.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\A4c2Ensg.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\B812BC3M.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\q7yFeeOe.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\lxAxbi0j.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\TVyi+yg+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\V1XNcOhk.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\je6Iiuzm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\S+4OCn7E.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\5nw7kreF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\ertmXYPj.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\n1v+eDgF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\gu7cps7H.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\IjAdqX9O.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\2LGA72NL.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\w3HcBeBt.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\ALpOiin1.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\QKluUZFD.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\SHnr7rxq.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\aGSq8+9T.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\eWg0aqP9.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\NizYbcZh.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\seMllSza.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Q1UdZlnJ.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ypt4maKj.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\G8by6nF4.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\tDEqayon.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\t4CFi4VP.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\HP3EMD01.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\vUT9QW4a.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\WmASeycw.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\owzDIork.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\EDV3jeOa.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\lctweRfw.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\zLwuw5+f.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\OGBXTvCJ.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\IWNBXzxv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\OfAuNlPp.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\dlDxAXHu.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\2f1YilfF.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Njii0yLN.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\fluw9zGL.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\+hWD1GJG.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\930cKEEs.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\LeZpOEmL.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\4ha1jLp1.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\5jbkAIOe.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\1+buKys1.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\+3TSTTLn.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\sedtqDTx.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\NFT8qHur.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\1gaDUlr3.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\7J3J76Ja.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\97K+yjD5.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\pcxHdDun.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\pCEZtY6m.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\l+fpsQr5.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\6sjt0UpH.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\D30FUtR4.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\WWE9xDZa.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\afms3NIl.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\wecfJKIQ.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\YzBb8bbo.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\LwLiyxml.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\m5YE5Anv.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\IEpIZ3w4.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\M237rOZ+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\P44MWYc7.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\axcv8BZ+.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\8+WEwXA8.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\knY8fGQU.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\iRZbeuzm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\K2UaOUHi.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\SpKD+r7G.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\1pvTnsTw.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\HlIWclg6.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\4nViCVsY.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3IZ9e5mI.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\rAq9p99b.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\34GzqxlT.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\AM3AE1cU.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\xb+9PfRN.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\K0xChSOm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\BO2mAxAp.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\eajeGy9u.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\cvFpO8qm.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\Z2R89BUA.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\SB3Q3LwC.gz
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.Manifest.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.xml
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\scopedcss\bundle\MoviesProy.Client.styles.css
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\scopedcss\projectbundle\MoviesProy.Client.bundle.scp.css
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorTargetAssemblyInfo.cache
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.pdb
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ComingSoonMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\MostPopularMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movie.razor.g.cs
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Movies\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\ComingSoonMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\MostPopularMovies.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movie.razor.g.cs
+C:\Movies\MoviesProy\Client\obj\Debug\net5.0\build-gz\3hZzhncS.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.StaticWebAssets.xml
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\MoviesProy.Client.pdb
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Client.pdb
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll.gz
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.dll
+C:\Users\asus\Downloads\MoviesProy\Client\bin\Debug\net5.0\wwwroot\_framework\MoviesProy.Shared.pdb
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.AssemblyInfo.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.input.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\CreateActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\EditActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Actors\ShowActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\CrateCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\EditCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories\ShowCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ComingSoonMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardActorComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\CustomNotFound.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\FormMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ImageComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ListCategories.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\MovieComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\MostPopularMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\EditMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Movies\ShowMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorComponent.output.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\RazorDeclaration\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.input.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.TagHelpers.output.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorCoreGenerate.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\CreateActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\EditActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Actors\ShowActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\CrateCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\EditCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Categories\ShowCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\ComingSoonMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardActorComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CardMoviesComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\CustomNotFound.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormActor.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormCategory.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\FormMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ImageComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\ListCategories.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\MovieComponent.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Components\SelectorMultiple.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\MostPopularMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\CreateMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\EditMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\FiltroMovies.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Pages\Movies\ShowMovie.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\8DLcnniY.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\d0v4v820.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\w67oGiv9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\LTt0MMH0.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\QdiFpccQ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Mn29tEHN.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\TJ35xg1T.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\perLJVCG.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\k+nkv8Ep.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zpCg+OFk.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\AJzS+asb.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\EnLnUapa.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\e4EJhl3X.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ivyx+ba9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\SJ4j5bep.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\gsLJVB0Z.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\m7jyKYFa.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\tR4nJtNO.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\MxAOQGWy.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Y0Rx5zvS.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\urHLqoDE.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\FOI1xg+j.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\6JicQhLY.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\wJDgIAEr.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\MtRe+Hpl.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\7fVnMA8t.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Q3xU4ZrG.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Ad53oaa6.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\JtEppoNS.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\kvSZQgsM.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\pYbJsa0y.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\6qSlhVYL.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\933UXa8P.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\9calksKF.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\7mtSnSCg.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\8OvKgtBt.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\7vf2lIWq.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\C6ucN7jh.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\K12ll+74.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\d6yyMvNt.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\dnv6u7ah.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\J5hah5+a.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\aXhEEQ7n.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\uSHg0KwP.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\PJulk2+q.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\voMwAnpq.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Rm1+k9l5.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\2KgZ6AFF.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\azAal7lC.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\f+qEEXtd.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\p+SFt3qA.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\i5PVNE+L.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\jVEyw+pU.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\DoRPLb80.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zzMdKPlE.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\+sY9QP+9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\VepN8Kh5.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\eO48Cp2j.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\SC0YGJrH.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\pH0r3QWa.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\mDqcgIDo.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\X5UAJ0x+.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\9T1WubUp.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\80+lIYcQ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\TUjqDxxr.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\BwQJmZ1M.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\VZ4llCUI.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\FExPiUe0.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\5c9JbZiN.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\3V03Vt0F.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\73t2ib+N.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\UTLShK6h.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\g7rm44KU.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\5Tbz1dRG.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\qOzwzJbo.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\L2giT+Hg.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\meT9xDBy.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\LKcYCm02.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\c5v8MkEY.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\MWTD8soW.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Sk1ya8GF.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\bw+dNYME.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Noxk8+iQ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\a0V2uUNl.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\gdyq7yrb.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\LTj+lA+X.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\weuS5Ako.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\YckxMfZx.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\ysRKP9bi.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\wbsVml8t.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\nGXNKTEQ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\95+xjXkL.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\jmcz9VNm.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\StTukzVv.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\bcwLvXtY.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\vRwul9nU.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\S6Ewm8Pj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\l0vP0cmS.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\RJAKs1ds.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\9VZvjPQH.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\2rncAmoB.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\IihuzcME.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\kSyoxMIk.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zpqLWSek.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\mtiC6Juj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Q2EtAsM9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\ZwkYisBL.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\rPyX0uop.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\iPbMC3mu.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\unFv13Ta.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\73oZ3ytw.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\K5e+Bkze.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\nUlr+cfx.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\mlLWrTyg.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\VxUaWhgf.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\uilxjJcQ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\RzQuNYnn.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\8CRIP7FN.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\BYnHCEbE.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\TpXc5zTg.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zatFVtDM.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\LNd8ChBj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\lMugEGTM.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\UF8YdNTI.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Asu+8TPm.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\L65H4Eyj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\o69crBZn.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\pyGbtYcy.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\ioBZMVor.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\MwFe2VSw.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\I5qoPDg9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\B+atOvnf.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Qfbac+3d.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\p0kypc+i.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CEAsOHpc.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Gp+IBJYP.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\tFPRankJ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\tdsGAsWG.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CfrJ48EN.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\HEM9437U.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\bAZwhlqj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\EuC2+FP2.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\q0Yi1QNd.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CuNQCeQu.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\XRAzxjz3.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\Zj4grz30.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\qDe4UyyM.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zNjp2IlC.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\UzaFO5M8.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\3Cqc8+kG.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\inufqmFg.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\cz+iX3gd.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\XnhS57a9.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CAHWl7C+.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\uFyi9Fgl.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\QONL0kk3.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\buk8vJaL.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\la12hFUI.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\cULiWnkS.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\RZ+hWwPB.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\o6FDVMhH.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CtL7aFGn.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\ibHqjhv+.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\UpAtWscz.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\yXMhUrCY.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\yWUhPE5p.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\o3DouYN+.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zX15RDuB.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\jkDvAC2g.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\3vy3rP4R.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\iuEZjPDv.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\0kcU583T.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\abGmyQbN.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\qXck6P16.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zEO2KEdZ.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\aevubAvt.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\MCD5rT+B.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\ohuURB3d.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zjjl6atD.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\gTqfPuBj.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\u9GAblvC.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\01CeQX6N.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\yVbc4WnV.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\KRyId4Lt.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\CD7zvKkI.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\zaGIHyFx.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\RmbJin7w.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\HwQs2krb.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\+WPRAZb3.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\mAIX1KEt.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\S98tvCz2.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\e19FB5j4.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\lPGkirV4.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\oGQOZD3a.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\gdIoI+Sh.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\e++eki+I.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\build-gz\wXYzB6l7.gz
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.Manifest.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\staticwebassets\MoviesProy.Client.StaticWebAssets.xml
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\scopedcss\bundle\MoviesProy.Client.styles.css
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\scopedcss\projectbundle\MoviesProy.Client.bundle.scp.css
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.csproj.CopyComplete
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\ref\MoviesProy.Client.dll
+C:\Users\asus\Downloads\MoviesProy\Client\obj\Debug\net5.0\MoviesProy.Client.pdb

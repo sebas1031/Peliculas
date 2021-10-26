@@ -1,0 +1,17 @@
+@page "/categories"
+@using MoviesProy.Client.Pages.Components
+@inject IServicesCategory category
+
+<div class="form-group">
+    <a href="categories/create" class="btn btn-info">Crear Categoría</a>
+    <a href="/categories/edit/{Id:int}" class="btn btn-dark">Editar Categoría</a>
+</div>
+<ListCategories Categories="Categories"></ListCategories>
+
+@code {
+    public List<Category> Categories;
+    protected override void OnInitialized()
+    {
+        Categories = category.GetCategories();
+    }
+}

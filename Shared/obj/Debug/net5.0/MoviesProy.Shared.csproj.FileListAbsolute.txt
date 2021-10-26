@@ -1,0 +1,36 @@
+C:\Proyectos con C#\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.deps.json
+C:\Proyectos con C#\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.dll
+C:\Proyectos con C#\MoviesProy\Shared\bin\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Proyectos con C#\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.pdb
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.AssemblyReference.cache
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfoInputs.cache
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfo.cs
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.CoreCompileInputs.cache
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.dll
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Proyectos con C#\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.pdb
+C:\Movies\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.deps.json
+C:\Movies\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.dll
+C:\Movies\MoviesProy\Shared\bin\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Movies\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.pdb
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.AssemblyReference.cache
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfoInputs.cache
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfo.cs
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.CoreCompileInputs.cache
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.dll
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Movies\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.pdb
+C:\Users\asus\Downloads\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.deps.json
+C:\Users\asus\Downloads\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.dll
+C:\Users\asus\Downloads\MoviesProy\Shared\bin\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Users\asus\Downloads\MoviesProy\Shared\bin\Debug\net5.0\MoviesProy.Shared.pdb
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.AssemblyInfo.cs
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.dll
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\ref\MoviesProy.Shared.dll
+C:\Users\asus\Downloads\MoviesProy\Shared\obj\Debug\net5.0\MoviesProy.Shared.pdb

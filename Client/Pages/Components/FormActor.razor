@@ -1,0 +1,54 @@
+<div class="container">
+    <div class="jumbotron">
+        <EditForm Model="Actor" OnValidSubmit="OnValidSubmit">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+            <div class="mb-3">
+                <label for="">Nombre:</label>
+                <InputText class="form-control" @bind-Value="@Actor.actorName" placeholder="Nombre del actor"></InputText>
+                <ValidationMessage For="@(()=>Actor.actorName)"></ValidationMessage>
+            </div>
+            <div class="form-group row mb-3">
+                <div class="col-sm-8">
+                    <label for="">Fecha de nacimiento</label>
+                    <InputDate class="form-control" @bind-Value="@Actor.birthDate"></InputDate>
+                    <ValidationMessage For="@(()=>Actor.birthDate)"></ValidationMessage>
+                </div>
+
+                <div class="col-sm-4">
+                    <label for=""><b></b>Cantidad de nominaciones:</label>
+                    <InputNumber class="form-control" @bind-Value="@Actor.nominations" placeholder="Cantidad de nominaciones">
+                    </InputNumber>
+                    <ValidationMessage For="@(()=>Actor.nominations)"></ValidationMessage>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <ImageComponent Label="Foto" ImageSelected="ImageSelected" ImageURL="@imageURL"></ImageComponent>
+            </div>
+            <div class="form-group"></div>
+            <button class="btn btn-success">Guardar</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    string imageURL;
+    [Parameter] public Actor Actor { get; set; }
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+
+    protected override void OnInitialized()
+    {
+        if (!string.IsNullOrEmpty(Actor.Photo))
+        {
+            imageURL = Actor.Photo;
+            Actor.Photo = null;
+        }
+    }
+
+    private void ImageSelected(string imageB64)
+    {
+        Actor.Photo = imageB64;
+        imageURL = null;
+    }
+
+}

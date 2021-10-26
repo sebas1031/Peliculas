@@ -1,0 +1,17 @@
+@page "/movies"
+@using MoviesProy.Client.Pages.Components
+@inject IServicesMovie movie
+
+<div class="form-group">
+    <a href="movies/create" class="btn btn-info">Crear pelicula</a>
+    <a href="/movies/edit/{MovieId:int}" class="btn btn-dark">Editar pelicula</a>
+</div>
+<CardMoviesComponent Movies="Movies"></CardMoviesComponent>
+
+@code {
+    private List<Movie> Movies;
+    protected override void OnInitialized()
+    {
+        Movies = movie.GetMovies();
+    }
+}

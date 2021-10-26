@@ -1,0 +1,16 @@
+.scrollable {
+    height: 100px; /* or any value */
+    overflow-y: auto;
+}
+
+html, body{
+    height: 100%;
+    background-color: #000;
+    overflow-y: auto;
+  }
+  
+  .contenedor{
+    height: 49%;
+    background-color: #6A737C;
+    margin: 1% 1%;
+  }

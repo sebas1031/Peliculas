@@ -1,0 +1,88 @@
+@page "/MostPopularMovies"
+
+@inject MostPopularServiceInterface MostPopularService
+@inject NavigationManager NavigationManager
+
+
+
+
+
+
+<h1>Most Popular Movies</h1>
+
+@if (movies == null)
+ {
+     
+     <p><em>Loading Movies... </em></p>
+ }
+ else
+ {
+               
+                @for (var i = 0; i < moviesdetails.Count; i=i+4)
+                {
+                    <div class="card-deck">
+                                 <div class="card text-center">
+                                    <div align="center"><img src="@moviesdetails[i].Image" class="img-fluid" width="150" alt=@moviesdetails[i].FullTitle></div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">@moviesdetails[i].FullTitle</h5>
+                                        <p class="card-text">@moviesdetails[i].Crew</p>
+                                        <p class="card-text">Rating: @moviesdetails[i].IMDbRating</p>
+                                        <div align="center"><a class="btn btn-primary" href="@($"/Movie/{moviesdetails[i].Id}")" role="button">Movie Details</a></div>
+                                    </div>
+                                </div>    
+                     
+                                <div class="card text-center">
+                                   <div align="center"><img src="@moviesdetails[i+1].Image" class="img-fluid" width="150" alt=@moviesdetails[i+1].FullTitle></div>                                  
+                                    <div class="card-body">
+                                        <h5 class="card-title">@moviesdetails[i+1].FullTitle</h5>
+                                        <p class="card-text">@moviesdetails[i+1].Crew</p>
+                                        <p class="card-text">Rating: @moviesdetails[i+1].IMDbRating</p>
+                                       <div align="center"><a class="btn btn-primary" href="@($"/Movie/{moviesdetails[i+1].Id}")" role="button">Movie Details</a></div>
+                                    </div>
+                                </div>    
+                
+                                <div class="card text-center">                              
+                                    <div align="center"><img src="@moviesdetails[i+2].Image" class="img-fluid" width="150" alt=@moviesdetails[i+2].FullTitle></div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">@moviesdetails[i+2].FullTitle</h5>
+                                        <p class="card-text">@moviesdetails[i+2].Crew</p>
+                                        <p class="card-text">Rating: @moviesdetails[i+2].IMDbRating</p>
+                                        <div align="center"><a class="btn btn-primary" href="@($"/Movie/{moviesdetails[i+2].Id}")" role="button">Movie Details</a></div>
+                                    </div>
+                                </div>    
+                      
+                                <div class="card text-center">
+                                    <div align="center"><img src="@moviesdetails[i+3].Image" class="img-fluid" width="150" alt=@moviesdetails[i+3].FullTitle></div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">@moviesdetails[i+3].FullTitle</h5>
+                                        <p class="card-text">@moviesdetails[i+3].Crew</p>
+                                        <p class="card-text">Rating: @moviesdetails[i+3].IMDbRating</p>
+                                        <div align="center"><a class="btn btn-primary" href="@($"/Movie/{moviesdetails[i+3].Id}")" role="button">Movie Details</a></div>
+                                    </div>
+                                </div>  
+                    </div>                 
+                }
+ }
+@code{
+ 
+ MostPopularData movies = new MostPopularData();
+ List<MostPopularDataDetail> moviesdetails = new List<MostPopularDataDetail>();
+
+ protected override async Task OnInitializedAsync()
+ {
+    movies = await MostPopularService.GetAllMovies(); 
+    moviesdetails = movies.Items;
+    MostPopularService.OnChange += StateHasChanged;
+ }  
+
+
+  void ShowMovie(String id)
+ {
+    StateHasChanged();
+    NavigationManager.NavigateTo($"Movie/{id}");
+    
+ }   
+
+
+}
+  

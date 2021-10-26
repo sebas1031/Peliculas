@@ -1,0 +1,53 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <img src="/Images/Logo.png" alt="..." height="50px" width="50px">
+    <a class="navbar-brand" href="MostPopularMovies">MoviesProy</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="categories">
+                <span class="oi oi-list" aria-hidden="true"></span> Categorías
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="movies" Match="NavLinkMatch.All">
+                <span class="oi oi-dashboard" aria-hidden="true"></span> Peliculas
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/movies/search" Match="NavLinkMatch.All">
+                <span class="oi oi-dashboard" aria-hidden="true"></span> Buscar pelicula
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="actors">
+                <span class="oi oi-list" aria-hidden="true"></span> Actores
+            </NavLink>
+        </li>
+                <li class="nav-item px-3">
+            <NavLink class="nav-link" href="MostPopularMovies">
+                <span class="oi oi-plus" aria-hidden="true"></span> Most Popular Movies
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="ComingSoonMovies">
+                <span class="oi oi-plus" aria-hidden="true"></span> Coming Soon Movies
+            </NavLink>
+        </li>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
